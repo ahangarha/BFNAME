@@ -1,6 +1,6 @@
 # BFNAME
 
-Write a code with Brainfuck language prgramming in such a way its output be your name.
+Write a code with Brainfuck language prgramming in such a way its output be your full name.
 
 For example my name, Mahmoud Masih Tehrani, must be written as:
 
