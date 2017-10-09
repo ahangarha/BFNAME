@@ -1,6 +1,11 @@
 # BFNAME
-write name and password with Brain Fuck language prgramming
-for example my name is Mahmoud Masih Tehrani must be write 
-mahmoud masih tehrani
- per person write in one file for example
- mahmoudmasihtehrani.bf
+
+Write a code with Brainfuck language prgramming in such a way its output be your name.
+
+For example my name, Mahmoud Masih Tehrani, must be written as:
+
+    mahmoud masih tehrani
+
+Each person should write the code in a file with the person's name like:
+
+    mahmoudmasihtehrani.bf
